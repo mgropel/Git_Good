@@ -3,11 +3,7 @@ Only edit your number!
 *******
 
 
-<<<<<<< HEAD
 1.  “Would you tell me, please, which way I ought to go from here?' 'That depends a good deal on where you want to get to,' said the Cat. 'I don't much care where -' said Alice. 'Then it doesn't matter which way you go,' said the Cat. '- so long as I get SOMEWHERE,' Alice added as an explanation. 'Oh, you're sure to do that,' said the Cat, 'if you only walk long enough.” ~Lewis Carroll
-=======
-1.  "Put your hand on a hot stove for a minute, and it seems like an hour. Sit with a pretty girl for an hour, and it seems like a minute. THAT’Sein
->>>>>>> e9687159b5d93b7eebe277de4235ac39831ebe1a
 
 
 2. "The only way to keep your health isdon’t want, drink what you don’t like, and do what you’d rather not." ~Mark Twain
